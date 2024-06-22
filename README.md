@@ -21,7 +21,7 @@ Feel free to reach out if you want to collaborate or just chat!
 ![Twitter](https://avatars.githubusercontent.com/u/152589020?v=4&size=64)
 
 ###### Discord: [Join My Server](https://discord.gg/t98kpXvP)
-<img src="https://wiki.nhrl.io/wiki/images/5/53/Discord_Logo.webp" alt="Discord Logo" width="64" height="64">
+![Discord](https://avatars.githubusercontent.com/u/152589020?v=4&size=64)
 
 # Buy Me a Coffee ☕ :)
 [Support Me on PayPal](https://paypal.me/DEVCHOPIIN?country.x=MX&locale.x=en_US)
